@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ServiceFabric.Serialization.V2", "ServiceFabric.Serialization.V2.csproj", "{EEA049B6-2F5F-4771-90CA-5D22D9261259}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEA049B6-2F5F-4771-90CA-5D22D9261259}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEA049B6-2F5F-4771-90CA-5D22D9261259}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEA049B6-2F5F-4771-90CA-5D22D9261259}.Debug|x64.ActiveCfg = Debug|x64
+		{EEA049B6-2F5F-4771-90CA-5D22D9261259}.Debug|x64.Build.0 = Debug|x64
+		{EEA049B6-2F5F-4771-90CA-5D22D9261259}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEA049B6-2F5F-4771-90CA-5D22D9261259}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEA049B6-2F5F-4771-90CA-5D22D9261259}.Release|x64.ActiveCfg = Release|x64
+		{EEA049B6-2F5F-4771-90CA-5D22D9261259}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C894806D-1513-41EE-8C64-4DA3322D7AFC}
+	EndGlobalSection
+EndGlobal
